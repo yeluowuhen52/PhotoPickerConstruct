@@ -10,9 +10,9 @@
 
     <style name="customTheme" parent="Theme.AppCompat.Light.NoActionBar">
       <item name="actionBarTheme">@style/actionBarTheme</item>
-      <item name="colorPrimary">@android:color/white</item>
+      <item name="colorPrimary">@android:color/holo_blue_dark</item>
       <item name="actionBarSize">@dimen/actionBarSize</item>
-      <item name="colorPrimaryDark">@android:color/white</item>
+      <item name="colorPrimaryDark">@android:color/holo_blue_dark</item>
     </style>
 
 </resources>
