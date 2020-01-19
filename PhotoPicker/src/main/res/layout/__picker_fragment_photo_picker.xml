@@ -24,6 +24,7 @@
             android:text="@string/__picker_all_image"
             android:layout_width="wrap_content"
             android:gravity="center"
+            android:textColor="@android:color/white"
             android:layout_height="wrap_content"
             style="@style/Widget.AppCompat.ActionButton"
             />
