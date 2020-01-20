@@ -37,7 +37,7 @@
             />
 
         <activity
-            android:theme="@style/Theme.AppCompat.NoActionBar"
+            android:theme="@style/customTheme"
             android:name="me.iwf.photopicker.PhotoPagerActivity"
             />
 
